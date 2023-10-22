@@ -1,2 +1,4 @@
-# web-340
-WEB340-323M Node.js class
+# WEB 340 Node.js
+## Contributors
+* Richard Krasso
+* Zadkiel Rodriguez Alvarado
